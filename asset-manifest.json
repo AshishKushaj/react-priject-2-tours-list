@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-project-2-tours-list/static/css/main.4551d29d.chunk.css",
+    "main.js": "/react-project-2-tours-list/static/js/main.c0cf65df.chunk.js",
+    "main.js.map": "/react-project-2-tours-list/static/js/main.c0cf65df.chunk.js.map",
+    "runtime-main.js": "/react-project-2-tours-list/static/js/runtime-main.1ff6f108.js",
+    "runtime-main.js.map": "/react-project-2-tours-list/static/js/runtime-main.1ff6f108.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/react-project-2-tours-list/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.86ce4ef4.chunk.js": "/react-project-2-tours-list/static/js/2.86ce4ef4.chunk.js",
+    "static/js/2.86ce4ef4.chunk.js.map": "/react-project-2-tours-list/static/js/2.86ce4ef4.chunk.js.map",
+    "static/js/3.2a3e1f2b.chunk.js": "/react-project-2-tours-list/static/js/3.2a3e1f2b.chunk.js",
+    "static/js/3.2a3e1f2b.chunk.js.map": "/react-project-2-tours-list/static/js/3.2a3e1f2b.chunk.js.map",
+    "index.html": "/react-project-2-tours-list/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/react-project-2-tours-list/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.4551d29d.chunk.css.map": "/react-project-2-tours-list/static/css/main.4551d29d.chunk.css.map",
+    "static/js/2.86ce4ef4.chunk.js.LICENSE.txt": "/react-project-2-tours-list/static/js/2.86ce4ef4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ff6f108.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.86ce4ef4.chunk.js",
+    "static/css/main.4551d29d.chunk.css",
+    "static/js/main.c0cf65df.chunk.js"
+  ]
+}
